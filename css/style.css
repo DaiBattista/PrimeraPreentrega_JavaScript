@@ -1,0 +1,42 @@
+/*body*/
+body {
+    font-family: "Poppins", sans-serif;
+    background-color: rgb(230, 186, 173);
+    margin: 0;
+}
+
+h1 {
+    font-weight: 900;
+    font-size: 2.8rem;
+    color: #0A66C2;
+}
+
+h2 {
+    font-weight: 700;
+    font-size: 1.5rem;
+    color: #16437E;
+
+}
+
+.main__container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.main__img {
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15%;
+}
+
+.img__fig {
+    width: 250px;
+}
+
+.main__titles {
+    text-align: center;
+}
